@@ -8,3 +8,5 @@ This project uses a slightly modified version of RBTray too, mainly so you can r
 repositories used: 
 https://github.com/llccd/RDPWrapOffsetFinder 
 https://github.com/benbuck/rbtray
+
+usage of this project's code or other repositories linked here code means you understand we are not liable for any damage, or action you do with these scripts.
